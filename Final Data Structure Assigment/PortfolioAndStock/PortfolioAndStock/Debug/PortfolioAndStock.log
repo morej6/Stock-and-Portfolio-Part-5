@@ -1,0 +1,11 @@
+﻿  StockStack.cpp
+  StockQueue.cpp
+c:\users\juan moreno\documents\visual studio 2015\data struct project\portfolioandstock\portfolioandstock\stockqueue.cpp(114): warning C4101: 'u': unreferenced local variable
+  StockList.cpp
+  StockBST.cpp
+  Stock.cpp
+  Portfolio.cpp
+c:\users\juan moreno\documents\visual studio 2015\data struct project\portfolioandstock\portfolioandstock\portfolio.cpp(32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\juan moreno\documents\visual studio 2015\data struct project\portfolioandstock\portfolioandstock\stockbst.cpp(191): warning C4715: 'StockBST::operator=': not all control paths return a value
+  PortfolioAndStock.vcxproj -> C:\Users\Juan Moreno\Documents\Visual Studio 2015\Data Struct Project\PortfolioAndStock\Debug\PortfolioAndStock.lib

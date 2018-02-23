@@ -1,0 +1,6 @@
+Amazon
+59.99
+10
+Microsoft
+74.59
+20
